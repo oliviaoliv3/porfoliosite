@@ -1,0 +1,31 @@
+body {
+    background-color: #8596b2;
+}
+
+h1 {
+    color: #e5b7d6;
+    margin-left: 30px;
+    padding-top: 25px;
+    font-size: 75px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.paragraph {
+    border-color: #e5b7d6;
+    border-style: dashed;
+}
+
+.container-fluid {
+    margin-left: 10px;
+}
+
+div alpha {
+    block-size: 500px;
+    float: right;
+    display: inline-block;
+}
+
+div bravo {
+    block-size: 500px;
+    float: right;
+}

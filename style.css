@@ -1,0 +1,24 @@
+body {
+    background-color:#8596b2;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 20px;
+    
+}
+
+.pic1 {
+    padding-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    block-size: 950px;
+}
+
+.pic2 {
+    padding-top: 20px;
+    block-size: 950px;
+}
+
